@@ -2,4 +2,7 @@
   color:white;
   background-color:black;
 }
+.flex-box{
+  display: flex;
 
+}
